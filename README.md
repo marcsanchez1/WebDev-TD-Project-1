@@ -1,2 +1,3 @@
-# WebDev-TD-Project-1
- First WebDev Tech Degree Project
+# WebDev-TD-Project 1
+
+First WebDev Tech Degree Project
