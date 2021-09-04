@@ -71,23 +71,34 @@ If you're having trouble with this project, make sure you take a look at this gr
 
 ## Step 1
 
-1. Create at least one more page in addition to the Home and Experience pages, like a "Hobbies" or "Contact" page for example.
+Create at least one more page in addition to the Home and Experience pages, like a "Hobbies" or "Contact" page for example.
 
-   - You can write custom CSS for any new pages, just make sure you use style.css for all pages.
+- You can write custom CSS for any new pages, just make sure you use style.css for all pages.
 
-2. Edit the styling of the profile photo’s CSS properties. Pick at least one of the following properties to change:
+## Step 2
 
-   - border
-   - border-radius
-   - transition
-   - transformation
+Edit the styling of the profile photo’s CSS properties. Pick at least one of the following properties to change:
 
-3. Add more photos and imagery to the page
-4. Add more text to the page such as a list of your hobbies.
-5. Make the HTML more semantic.
-   - Overall index.html uses semantic markup, however, there are several opportunities to enhance some divs with more descriptive tag names:
-     - `<div class="main-nav">`
-     - `<div class="card">`
+- border
+- border-radius
+- transition
+- transformation
+
+## Step 3
+
+Add more photos and imagery to the page
+
+## Step 4
+
+Add more text to the page such as a list of your hobbies.
+
+## Step 5
+
+Make the HTML more semantic.
+
+- Overall index.html uses semantic markup, however, there are several opportunities to enhance some divs with more descriptive tag names:
+  - `<div class="main-nav">`
+  - `<div class="card">`
 
 > NOTE: Getting an "Exceed Expectations" grade.
 >
